@@ -1,6 +1,6 @@
 # advance_foodapp
 
-A new Flutter project.
+A new Flutter project with some complex UI.
 
 ## Getting Started
 
